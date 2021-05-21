@@ -1,0 +1,27 @@
+.panel-group .panel{
+    background-color: #f5f6f800;
+    border:none;
+    box-shadow:none;
+    border-radius: 10px;
+    font-size:50px;
+    margin-bottom:11px;
+    left:20px;
+  }
+  #accordion .panel-body{
+      margin:0 auto;
+      background-color:#f9fafc00;
+      color: black;
+      line-height: 25px;
+      border-top:none;
+      font-size:50px;
+      position: relative;
+    }
+    h{
+        font-size:30px;
+       }
+    .contact-links{
+        padding-left: 600px;
+        font-size: 40px;
+        margin: 25px;
+        line-height: 70px;
+    }

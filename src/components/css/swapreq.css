@@ -1,0 +1,25 @@
+.panel-group .panel{
+  background-color: #f4f5f800;
+  border:none;
+  box-shadow:none;
+  border-radius: 10px;
+  margin-bottom:11px;
+}
+#accordion .panel-body{
+    margin:0 auto;
+    background-color:#f4f5f800;
+    color: black;
+    line-height: 25px;
+    border-top:none;
+    font-size:18px;
+    position: relative;
+  }
+
+.wrapper {
+  text-align: center;
+}
+
+button {
+  background-color: #E6E6FA;
+  font-size: 20px;
+}

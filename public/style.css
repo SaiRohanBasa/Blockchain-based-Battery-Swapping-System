@@ -1,0 +1,34 @@
+nav{
+    background:white;
+    height: 70px;
+    font-size: 2em;
+    padding-left:1em;
+    padding-top:0.5em;
+}
+nav p{
+    float: right;
+    padding-right:1em;
+    
+}
+#noone{
+    text-align: center;
+    margin: 3em auto;
+    
+}
+#noone h2{
+    color: white;
+}
+
+footer {
+    background: #1A1E25;
+    color: #868c96;
+    margin-top:11%;
+    margin-bottom:0px;
+}
+
+footer p {
+    font-size: 1.1em;
+    display: block;
+    padding: 20px 0;
+    text-align: center;
+}
